@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio11_LanzarActivity</string>
+    <string name="acercade">Acerca de</string>
+    <string name="autor">Autor: Tatiana</string>
+    <string name="salir">Salir</string>
+
+</resources>
